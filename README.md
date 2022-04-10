@@ -10,11 +10,7 @@
 
 -   For my portfolio project, I worked with a peer on a mobile application. It’s an X.. application, built with swift and X.. We learned how to be organised to deliver a working MVC in a manner of a few weeks…
 
-## Switch to another file
-
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
-
-## #### If you want to reach out to me, you can message me on:
+## If you want to reach out to me, you can message me on:
 
 https://www.linkedin.com/in/gr%C3%A9goire-coudrin-810a66230/
 
@@ -24,6 +20,6 @@ https://www.linkedin.com/in/gr%C3%A9goire-coudrin-810a66230/
 ![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
 ![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
 ![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png)
-##My medium
+## My medium
 <!-- MEDIUM-STORY-LIST:START -->  
 <!-- MEDIUM-STORY-LIST:END -->
