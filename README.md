@@ -4,11 +4,7 @@
 
 -   During my first year at Holberton, I worked mainly in C language, Python and bash scripting. Thus I’m comfortable with algorithm with C.
 
--   I recreated the printf function and Linux Shell with 2 different groups. Thanks to the school learning approach we learned to work collaboratively, in person and remotely.
-
-## My Porfolio Project
-
--   For my portfolio project, I worked with a peer on a mobile application. It’s an X.. application, built with swift and X.. We learned how to be organised to deliver a working MVC in a manner of a few weeks…
+-   I recreated the printf function and Linux Shell with 2 different groups. Thanks to the school learning approach we learned to work collaboratively, in person and remotely
 
 ## If you want to reach out to me, you can message me on:
 
