@@ -1,6 +1,7 @@
 # Hi there
 
--   Hello! I'm Grégoire Coudrin and currently a student in @Holberton School PARIS . I'd be finishing my studies in 15 months and I'm looking for an internship Blockchain | Machine Learning| I’m very interested in game development.
+-   Hello! I'm Grégoire Coudrin and currently looking for alternation . I'm looking for an internship Blockchain | Machine Learning| Devops | I’m very interested in game development
+-   and AI technology.
 
 -   During my first year at Holberton, I worked mainly in C language, Python, SQL and bash scripting. Thus I’m comfortable with algorithm with C and Python.
 
