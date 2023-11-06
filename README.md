@@ -2,7 +2,7 @@
 
 -   Hello! I'm Grégoire Coudrin and currently looking for alternation . I'm looking for an internship Blockchain | Machine Learning| Devops | I’m very interested in game development and AI technology.
 
--   During my first year at Holberton, I worked mainly in C language, Python, SQL and bash scripting. Thus I’m comfortable with algorithm with C and Python.
+-   During my first year at Holberton and at Diderot University (Physic Licence), I worked mainly in C language, Python(+matrix and numpy), SQL and bash scripting. Thus I’m comfortable with algorithm with C and Python.
 
 -   I recreated the printf function and Linux Shell with 2 different groups on #C, and a RPG game in Python with TKINTER. Thanks to the school learning approach we learned to work collaboratively, in person and remotely
 
