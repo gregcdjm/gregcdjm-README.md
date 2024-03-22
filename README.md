@@ -1,6 +1,6 @@
 # Hi there
 
--   Hello! I'm Grégoire Coudrin and currently looking for alternation . I'm looking for an internship Blockchain | Machine Learning| Devops | I’m very interested in game development and AI technology.
+-   Hello! I'm Grégoire Coudrin and currently looking for alternation . I'm looking for an internship Blockchain | Machine Learning| Devops and CyberSecurity I’m very interested in game development ( plane simulator ) and AI technology.
 
 -   During my first year at Holberton and at Diderot University (Physic Licence), I worked mainly in C language, Python(+matrix and numpy), SQL, HTML5, JS and bash scripting. Thus I’m comfortable with algorithm with #C and Python.
 
@@ -10,7 +10,7 @@
 
 ## If you want to reach out to me, you can message/call me on:
 
-0633566627
+0722632187
 gregoirecoudrin@gmail.com
 
 # Language and tools 
